@@ -1,0 +1,61 @@
+{
+	"activate-power-mode": {
+		"autoToggle": false
+	},
+	"atom-autocomplete-php": {
+		"binComposer": "/usr/bin/composer"
+	},
+	"core": {
+		"excludeVcsIgnoredPaths": false,
+		"packagesWithKeymapsDisabled": [],
+		"restorePreviousWindowsOnStart": "no",
+		"telemetryConsent": "no",
+		"themes": [
+			"one-dark-ui",
+			"an-old-hope-one-syntax"
+		],
+		"warnOnLargeFileLimit": 10
+	},
+	"drupal": {
+		"fileTypesPhp": "module,install,inc,test,theme"
+	},
+	"editor": {
+		"fontSize": 13,
+		"showInvisibles": true,
+		"softWrap": true,
+		"tabType": "soft"
+	},
+	"exception-reporting": {
+		"userId": "b839e37c-d9f6-2a49-5d55-642812dda484"
+	},
+	"linter-ui-default": {
+		"panelHeight": 69
+	},
+	"markdown-writer": {
+		"lineStyles": {
+			"ol": {
+				"before": "1. ",
+				"regexBefore": "(?:-|\\*|\\+|\\.|\\d+[\\.\\)]|[a-zA-Z]+[\\.\\)])\\s",
+				"regexMatchBefore": "(?:\\d+[\\.\\)]|[a-zA-Z]+[\\.\\)])\\s"
+			}
+		},
+		"orderedNewLineNumberContinuation": false
+	},
+	"minimap": {
+		"adjustAbsoluteModeHeight": true
+	},
+	"php-debug": {
+		"currentPanelMode": "bottom"
+	},
+	"php-integrator-symbol-viewer": {
+		"panelSide": "left"
+	},
+	"sync-settings": {},
+	"tree-view": {},
+	"welcome": {
+		"showOnStartup": false
+	},
+	"whitespace": {
+		"ignoreWhitespaceOnCurrentLine": false
+	}
+}
